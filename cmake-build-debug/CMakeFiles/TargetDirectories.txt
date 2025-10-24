@@ -1,0 +1,3 @@
+F:/code/workspace-clion/templateCode/cmake-build-debug/CMakeFiles/templateCode.dir
+F:/code/workspace-clion/templateCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/workspace-clion/templateCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
